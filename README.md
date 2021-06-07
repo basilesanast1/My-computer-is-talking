@@ -1,2 +1,5 @@
-# My-computer-is-talking
-My computer is TALKING?!
+# Computer talks
+
+Me- say "Hello"
+My computer- Hello
+Me- What?
